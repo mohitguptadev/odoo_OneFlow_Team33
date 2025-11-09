@@ -13,7 +13,6 @@ npm install
 ```bash
 cp .env.example .env
 ```
-
 3. Update `.env` with your database credentials
 
 4. Create uploads directories:
